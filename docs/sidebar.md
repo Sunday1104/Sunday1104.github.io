@@ -3,8 +3,9 @@
 - [*俱乐部联赛*](./blog/match-league)
 - [*青少年比赛*](./blog/match-youth)
 * [***Event Calendar***](./blog/calendar)
-* [***Gallery***](./blog/gallery)
-- [***Results Book***](./blog/results-book)
+* [***Gallery***](./arxiv/gallery)
+* [***Results Book***](./arxiv/results-book)
+* [***News and Information***](./arxiv/news-info)
 * [***UnCategorized***](./blog/uncategorized)
 * [***Useful Links***](./blog/links)
 
