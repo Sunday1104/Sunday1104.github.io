@@ -1,5 +1,6 @@
 * [**缓慢考古中**]()
 
+<!--
 - [*俱乐部联赛*](./blog/match-league)
 - [*青少年比赛*](./blog/match-youth)
 * [***Event Calendar***](./blog/calendar)
@@ -8,6 +9,7 @@
 * [***News and Information***](./arxiv/news-info)
 * [***UnCategorized***](./blog/uncategorized)
 * [***Useful Links***](./blog/links)
+-->
 
 <!-- 20210305
 
