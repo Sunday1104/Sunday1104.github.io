@@ -1,23 +1,25 @@
 * [**缓慢考古中**]()
 
-<!--
-- [*俱乐部联赛*](./blog/match-league)
-- [*青少年比赛*](./blog/match-youth)
-* [***Event Calendar***](./blog/calendar)
+* [***Event Calendar***](./event-calendar)
+- [*Olympic Games*]()
+- [*World Championships*]()
+- [*ITTF World Tours*]()
+- [*WTT Events*]()
+- [*俱乐部联赛*](./tournament/cttl)
+- [*青少年比赛*](./tournament/junior-and-cadet)
+
 * [***Gallery***](./arxiv/gallery)
 * [***Results Book***](./arxiv/results-book)
 * [***News and Information***](./arxiv/news-info)
-* [***UnCategorized***](./blog/uncategorized)
-* [***Useful Links***](./blog/links)
--->
+* [***UnCategorized***](./uncategorized)
+* [***Useful Links***](./links)
 
 <!-- 20210305
 
-* [***Medal Record***](./blog/medals)
-* [***Tournaments***](./blog/tournaments)
-    * [***Olympic Games***](./tournament/og)
-* [***Matches***](./blog/matches)
-- [*全国性比赛*](./blog/match-national)
+* [***Tournaments***](./event/tournaments)
+    * [***Olympic Games***](./event/og)
+* [***Matches***](./event/matches)
+- [*全国性比赛*](./event/match-national)
 
 
 -->
